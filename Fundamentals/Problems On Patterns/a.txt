@@ -1,0 +1,1 @@
+Holds the code for pattern desigining helpful for understanding of loops 
